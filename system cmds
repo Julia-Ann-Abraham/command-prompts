@@ -1,0 +1,25 @@
+                                              Steps to enter Administrator commands 
+                        [press win + type "cmd"+ run as administrator] or ["win+r"+ type "cmd"+ press "enter/ok"]
+
+Prompts:-
+1. systeminfo  -> to get the system info of the desktop/ to give a detailed configuration overview of your computer.
+2. assoc -> to display a full list of filename extensions and program associations. 
+3. cls -> to clear the command prompt window
+4. ipconfig -> relays the IP address the computer is currently using/ relays the local network address of the router.
+5. ipconfig/flushdns -> to refresh the DNS address.
+6. netstat-an -> to provide with a list of currently open ports and related IP addresses.
+              -> helps to troubleshoot devices connected to your PC; and shows connections w any malicious ports (say, Trojan).
+7. powercfg/batteryreport -> provides a detailed analysis of battery use, if applicable.
+8. tracert <type a domain(say,google.com)> -> to receive information about each step in the route between the PC and the target domain.
+9. shutdown -> shuts down computer
+10. shutdown/r/o -> restarts your PC and launches the Advanced Start Options menu
+11. tasklist -> to provide a current list of all tasks running on the PC.
+12. help -> provides help information for Windows commands.
+13. cd -> to change Directory, ie., move to a specific Folder
+14. mkdir -> creates a directory.
+15. rd OR rmdir -> removes a directory.
+16. time ->  Displays or sets the system time.
+17. type -> Displays the contents of a text file.
+18. ls -> listing directory contents or to verify the presence of specific files
+19. 
+20. 
